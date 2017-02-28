@@ -10,6 +10,8 @@ platforms:
   - name: ubuntu/trusty64
   - name: centos/7
   - name: centos/6
+  - name: debian/jessie64
+  - name: debian/wheezy64
 
 suites:
   - name: default
