@@ -1,0 +1,7 @@
+DEPENDENCIES
+  cop_keepalived
+    path: .
+    metadata: true
+
+GRAPH
+  cop_keepalived (0.0.0)
