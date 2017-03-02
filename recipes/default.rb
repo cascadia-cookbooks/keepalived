@@ -26,3 +26,4 @@
 # SOFTWARE.
 
 include_recipe 'cop_keepalived::install'
+include_recipe 'cop_keepalived::service'
